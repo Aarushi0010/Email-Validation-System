@@ -2,7 +2,7 @@
 
 This a python based mini project . 
 <hr>
-<b>FOLLOWING ARE ITS FEATURES</b>b> 
+<b>FOLLOWING ARE ITS FEATURES</b> 
  <br> 
 📍 It is a string based program .<br>
 📍 Every condtition for email to be valid is checked .<br> 
