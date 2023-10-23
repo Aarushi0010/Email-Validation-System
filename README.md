@@ -5,6 +5,8 @@ This a python based mini project .
 <b>FOLLOWING ARE ITS FEATURES</b> 
  <br> 
 📍 It is a string based program .<br>
-📍 Every condtition for email to be valid is checked .<br> 
+<br>
+📍 Every condtition for email to be valid is checked .<br>
+<br>
 📍 comment of "Invalid email address " is presented . 
 
